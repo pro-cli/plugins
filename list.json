@@ -1,0 +1,26 @@
+[
+    {
+        "id": "jenkins",
+        "title": "Jenkins",
+        "description": "Run Jenkins builds directly from your local environment.",
+        "repository": "https://github.com/pro-cli/jenkins",
+    },
+    {
+        "id": "magento",
+        "title": "Magento",
+        "description": "Initialise new Magento projects within seconds and add Magento commands for easy usage.",
+        "repository": "https://github.com/pro-cli/magento",
+    },
+    {
+        "id": "ngrok",
+        "title": "ngrok",
+        "description": "Expose your application secure to the internet.",
+        "repository": "https://github.com/pro-cli/ngrok",
+    },
+    {
+        "id": "share",
+        "title": "Share",
+        "description": "Share your project through the local network.",
+        "repository": "https://github.com/pro-cli/share",
+    }
+]
